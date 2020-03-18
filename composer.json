@@ -2,6 +2,7 @@
   "name": "rs/error404",
   "description": "redirect 404 pages",
   "type": "oxideshop-module",
+  "minimum-stability": "stable",
   "keywords": ["oxid", "modules", "eShop"],
   "homepage": "https://www.reisacher-software.de",
   "license": [
